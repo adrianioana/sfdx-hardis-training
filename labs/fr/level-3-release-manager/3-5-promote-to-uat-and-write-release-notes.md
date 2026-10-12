@@ -5,7 +5,7 @@ description: "Protégez ce que l'UAT garde pour elle avec package-no-overwrite, 
 level: 3
 lab: 5
 lang: fr
-source_rev: "cfc9f94b58d5e8b90a9fa85e2d25c4989c21146b"
+source_rev: "f25960a8cc88a556eb27b6b6e1c8446b343c9b48"
 screenshots:
   - annotated/vscode/devops-pipeline-level3--create-promotion
   - annotated/vscode/pipeline-branch-modal-level3--what-it-carries
