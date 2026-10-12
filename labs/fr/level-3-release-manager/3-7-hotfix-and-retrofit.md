@@ -329,7 +329,7 @@ le hotfix lui-même.
 
 ## Vérifiez votre travail
 
-**Training: Level 3** > **Check my work**.
+Welcome page > **Training: Level 3** > **Check my work**, puis choisissez **Lab 3.7**.
 
 Il cherche l'exemption `Cancelled` sur `preprod` et sur `main`, et la même ligne sur `integration` :
 le hotfix est parti, et le retrofit l'a ramené.
